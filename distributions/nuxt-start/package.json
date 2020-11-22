@@ -57,13 +57,13 @@
   "dependencies": {
     "@nuxt/cli": "2.14.7",
     "@nuxt/core": "2.14.7",
-    "@nuxt/telemetry": "^1.2.3",
+    "@nuxt/telemetry": "^1.2.5",
     "node-fetch": "^2.6.1",
     "vue": "^2.6.12",
     "vue-client-only": "^2.0.0",
     "vue-meta": "^2.4.0",
     "vue-no-ssr": "^1.1.1",
-    "vue-router": "3.4.8",
+    "vue-router": "3.4.9",
     "vuex": "^3.5.1"
   },
   "engines": {
